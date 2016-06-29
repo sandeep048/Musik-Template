@@ -1,9 +1,13 @@
-Musik template from
+Musik Template
+----------------------
+Bootstrap 3 starter template streaming music web applications.
 
-http://flatfull.com/themes/musik/index.html
+ - http://flatfull.com/themes/musik/index.html
+ - http://themeforest.net/item/musik-music-web-application-template/7831557
 
-http://themeforest.net/item/musik-music-web-application-template/7831557
+Test locally using a http server instance
 
-Test using python -m SimpleHTTPServer
-Open browser http://localhost:8000
+    python -m SimpleHTTPServer
+
+Open browser and point to http://localhost:8000
 
